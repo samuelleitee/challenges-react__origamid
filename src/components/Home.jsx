@@ -1,8 +1,8 @@
 export function Home() {
     return (
-      <>
-        <h3>Home</h3>
+      <section>
+        <h1>Home</h1>
         <p>Essa é a home do site</p>
-      </>
+      </section>
     );
   }
