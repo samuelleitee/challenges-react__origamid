@@ -1,3 +1,5 @@
+import { Titulo } from "./Titulo";
+
 export function Home() {
     return (
       <section>
